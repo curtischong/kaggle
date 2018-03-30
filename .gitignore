@@ -1,0 +1,10 @@
+sample_submission.csv*
+test.csv*
+train.csv*
+New_York_City_Taxi_Trip_Duration/speed_limits/centerline/
+New_York_City_Taxi_Trip_Duration/speed_limits/contour/
+New_York_City_Taxi_Trip_Duration/speed_limits/speed_limit_shapefile/
+stay_alert/fordTest.csv
+stay_alert/fordTrain.csv
+stay_alert/example_submission.csv
+stay_alert/Solution.csv
